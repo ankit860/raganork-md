@@ -1,5 +1,5 @@
 {
-  "name": "raganork-md",
+  "name": "gemini-md",
   "version": "5.0.0",
   "description": "A light weight WhatsApp bot.",
   "scripts": {
@@ -19,7 +19,7 @@
     "bot",
     "multi-device"
   ],
-  "author": "Sourav",
+  "author": "Ansh",
   "developer": "@souravkl11",
   "license": "GPL-3.0-or-later",
   "homepage": "https://github.com/souravkl11/raganork#readme",
